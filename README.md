@@ -18,6 +18,10 @@ Sistema web de gestión para cementerios. Este frontend está desarrollado con *
 - Vue Router
 - Axios
 
+## 📄 Variables de entorno
+
+Antes de iniciar el servidor, asegúrate de crear un archivo `.env` en la raíz del proyecto. Puedes usar el archivo `.env.example` como base.
+
 ## 🚀 Instalación
 
 ```bash
